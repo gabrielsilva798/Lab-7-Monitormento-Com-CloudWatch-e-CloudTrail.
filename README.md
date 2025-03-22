@@ -4,7 +4,7 @@
 
 ## 📌 Descrição do Projeto
 
-Este repositório documenta as etapas e configurações realizadas no **Lab 8**, onde exploramos o monitoramento de recursos na AWS utilizando **Amazon CloudWatch** e **AWS CloudTrail**.
+Este repositório documenta as etapas e configurações realizadas no **Lab 7**, onde exploramos o monitoramento de recursos na AWS utilizando **Amazon CloudWatch** e **AWS CloudTrail**.
 
 O objetivo do projeto é implementar uma solução de monitoramento eficaz, garantindo visibilidade sobre o desempenho, logs e eventos de segurança dos serviços AWS.
 
