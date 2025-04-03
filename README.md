@@ -59,6 +59,9 @@ Informe:
 | **Amazon S3** | Armazenamento de logs |
 | **Amazon SNS** | Envio de notificações |
 
+## 💻 Prints de cada etapa.
+
+
 ## 👀 Participe
 
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. 
