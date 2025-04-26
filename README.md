@@ -60,7 +60,18 @@ Informe:
 | **Amazon SNS** | Envio de notificações |
 
 ## 💻 Prints de cada etapa.
-
+![Imagem - 1](imagens/imagens_page-0001.jpg)
+![Imagem3 - 2](imagens/imagens_page-0002.jpg)
+![Imagem - 3](imagens/imagens_page-0003.jpg)
+![Imagem - 4](imagens/imagens_page-0004.jpg)
+![Imagem - 5](imagens/imagens_page-0005.jpg)
+![Imagem - 6](imagens/imagens_page-0006.jpg)
+![Imagem - 7](imagens/imagens_page-0007.jpg)
+![Imagem - 8](imagens/imagens_page-0008.jpg)
+![Imagem - 9](imagens/imagens_page-0009.jpg)
+![Imagem - 10](imagens/imagens_page-0010.jpg)
+![Imagem - 11](imagens/imagens_page-0011.jpg)
+![Imagem - 12](imagens/imagens_page-0012.jpg)
 
 ## 👀 Participe
 
